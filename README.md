@@ -1,6 +1,6 @@
-# FurryFriend
+# FurryWaleFriend
 
-## <div div align="center">Diversion 2k24 - Furry Friends </div>
+## <div div align="center">Diversion 2k24 - FurryWaleFriends </div>
 
 
 <div align="center" >
