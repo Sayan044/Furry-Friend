@@ -44,7 +44,7 @@
 <br/>
 
 <div style="display: flex; flex-direction: row; align-items: center; gap: 1rem">
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="40px" width="50px"> Express.js - as our backend framework
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="40px" width="50px"> MongoDB - as our Database framework
 </div>
 
 
