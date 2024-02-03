@@ -43,9 +43,12 @@
 
 <br/>
 
+<div style="display: flex; flex-direction: row; align-items: center; gap: 1rem">
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="40px" width="50px"> Express.js - as our backend framework
+</div>
 
 
-
+<br/>
 
 <div style="display: flex; flex-direction: row; align-items: center; gap: 1rem">
 <img src="https://github.com/bishakhne0gi/TenderFloww/assets/63441472/187c1593-c2ae-4dea-8038-54442bd2e45e" height="40px" width="40px"> Postman for documenting our APIs
