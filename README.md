@@ -54,3 +54,5 @@
 </div>
 
 <br/>
+## Workflow 🚀 
+![Screenshot 2024-02-04 043052](https://github.com/Sayan044/FurrywaleFriend/assets/108444636/f782e146-de71-44e8-b9bf-27eb19d750db)
