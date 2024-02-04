@@ -8,7 +8,9 @@
 
 </div>
 
+## ℹ 
 
+"FurryWaleFriends, a compassionate platform, utilizes MongoDB for a secure treatment portal addressing injured animals. The adoption and donation sections offer second chances to strays, while the user-friendly interface facilitates shelter exploration and swift reporting of animal cruelty."
 
 
 
@@ -94,7 +96,7 @@ It seems like you've provided a list of actions and timestamps related to your p
 ```markdown
 ## Project Name
 
-"FurryWaleFriends, a compassionate platform, utilizes MongoDB for a secure treatment portal addressing injured animals. The adoption and donation sections offer second chances to strays, while the user-friendly interface facilitates shelter exploration and swift reporting of animal cruelty."
+FurryWaleFriends
 
 ## Table of Contents
 
