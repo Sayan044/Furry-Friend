@@ -91,3 +91,38 @@ Imagine Luna, a playful stray dog, is found injured on the street. Concerned cit
 
 <br/>
 
+## Getting Started
+
+To set up your project locally, follow these simple steps:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/your-project.git
+
+    Navigate to Project Directory:
+
+    bash
+
+cd your-project
+
+Install Dependencies:
+
+bash
+
+npm install
+
+Run the Project:
+
+bash
+
+npm start
+
+This command will start the development server and open the project in your default web browser. If you have a different setup or specific requirements, please refer to your project's documentation.
+
+You might need to create a .env file with necessary configuration variables. Refer to the provided .env.example for guidance.
+
+bash
+
+cp .env.example .env
+
+Open the .env file and fill in the required values.
