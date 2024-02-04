@@ -3,7 +3,7 @@
 
 <div align="center" style="width: 50%;">
 
-![WhatsApp Image 2024-02-04 at 8 12 49 AM](https://github.com/Sayan044/FurrywaleFriend/assets/108444636/084f475e-f62f-4f5d-be1b-f4aa0c8b942b)
+![WhatsApp Image 2024-02-04 at 8 12 49 AM (1)](https://github.com/Sayan044/FurrywaleFriend/assets/108444636/12a48ae5-12b1-4e02-b21e-27ada5569491)
 
 
 </div>
