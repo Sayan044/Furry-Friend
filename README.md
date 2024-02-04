@@ -9,7 +9,7 @@
 </div>
 
 
-"FurryWaleFriends, a compassionate platform, utilizes MongoDB for a secure treatment portal addressing injured animals. The adoption and donation sections offer second chances to strays, while the user-friendly interface facilitates shelter exploration and swift reporting of animal cruelty."
+
 
 
 ## 🚀 Workflow
@@ -92,9 +92,9 @@ Imagine Luna, a playful stray dog, is found injured on the street. Concerned cit
 It seems like you've provided a list of actions and timestamps related to your project. If you want to generate a README.md file based on this information, I can help structure it for you. Here's a template:
 
 ```markdown
-# Project Name
+## Project Name
 
-A brief description of your project.
+"FurryWaleFriends, a compassionate platform, utilizes MongoDB for a secure treatment portal addressing injured animals. The adoption and donation sections offer second chances to strays, while the user-friendly interface facilitates shelter exploration and swift reporting of animal cruelty."
 
 ## Table of Contents
 
