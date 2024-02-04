@@ -1,7 +1,7 @@
 ## <div div align="center">Diversion 2k24 - FurrywaleFriends </div>
 
 
-<div align="center" width="30px" >
+<div align="center", width="30px" >
 
 ![WhatsApp Image 2024-02-04 at 8 12 49 AM](https://github.com/Sayan044/FurrywaleFriend/assets/108444636/084f475e-f62f-4f5d-be1b-f4aa0c8b942b)
 
