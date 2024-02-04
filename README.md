@@ -4,7 +4,7 @@
 
 <div align="center" >
  
-![Screenshot 2024-02-03 at 8 52 39 PM](https://github.com/gunjansaha55/Furry_Friends/assets/97596347/c3740c01-da8b-4add-81f4-ded318a836ac)
+[Screenshot 2024-02-03 at 8 52 39 PM](https://github.com/gunjansaha55/Furry_Friends/assets/97596347/c3740c01-da8b-4add-81f4-ded318a836ac)
 
 
 
